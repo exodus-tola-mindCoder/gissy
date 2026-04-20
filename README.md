@@ -133,7 +133,7 @@ Gissy  supports multiple AI providers for generating intelligent commit messages
 2. **Gemini** - Google's Gemini models for advanced AI generation
 3. **Addis AI** - Local language support for Afaan Oromo and Amharic
 
-#### Configuration Examples
+#### Configuration Examples.
 
 ##### .env file
 ```bash
@@ -151,7 +151,7 @@ ADDIS_AI_API_KEY=your-addis-ai-key-here
 - **Multi-language support**: Addis AI supports Afaan Oromo and Amharic
 - **Automatic fallback**: Falls back to simple commit messages if no AI keys are available
 - **Zero-config ready**: Works without any API keys
-- **Cross-platform**: Works on Windows, macOS, and Linux
+- **Cross-platform**: Works on Windows, macOS, and Linux.
 
 #### Migration Guide
 ##### From Single OpenAI to Multi-Provider
@@ -179,7 +179,7 @@ ADDIS_AI_API_KEY=your-addis-ai-key-here
 
 ## 📖 Usage
 
-### Basic Commands
+### Basic Commands.
 
 ```bash
 # Show enhanced git status with file changes
@@ -261,7 +261,7 @@ npx gissy watch --verbose --use-ai --ignore "*.log"
 ```
 
 
-## 🤝 Contributing
+## 🤝 Contributing.
 
 We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed information on how to get started, development setup, and contribution guidelines.
 
