@@ -213,7 +213,6 @@ npx gissy info
 ```
 
 ### File Watcher Workflow
-
 The file watcher automatically:
 1. Monitors file changes in your repository
 2. Runs tests and linting (if enabled)
