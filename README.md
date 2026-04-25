@@ -65,7 +65,6 @@ npx gissy ssh
 ```
 
 ## ⚙️ Configuration
-
 ### Basic Configuration
 Create a `.gissyrc.json` file in your project root:
 
