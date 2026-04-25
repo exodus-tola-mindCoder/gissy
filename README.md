@@ -242,7 +242,7 @@ $ gissy watch
 
 ### Advanced Usage
 
-```bash
+```bash 
 # Verbose logging during watch
 gissy watch --verbose
 
