@@ -37,6 +37,7 @@ If you find this project useful, please consider giving it a star ⭐! Your supp
 </p>
 
 ## ✨ Key Features
+
 - **Open Source**: Free to use, licensed under MIT, and open to community contributions.
 - **Intelligent File Watcher**: Automatically detects file changes in your repository
 - **Automated Workflow**: Runs your tests and linter, then stages, commits, and pushes your changes seamlessly
