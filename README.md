@@ -110,12 +110,14 @@ ADDIS_AI_API_KEY=your_addis_ai_api_key_here
 ```
 
 #### Provider Priority
+
 The system automatically detects which AI provider to use based on available API keys in this priority order:
 1. **OpenAI** (if `OPENAI_API_KEY` is set)
 2. **Google Gemini** (if `GEMINI_API_KEY` is set)  
 3. **Addis AI** (if `ADDIS_AI_API_KEY` is set)
 
 #### AI Provider Features
+
 | Provider | Model | Languages | Special Features |
 |----------|--------|-----------|------------------|
 | **OpenAI** | GPT-3.5-turbo | English | Conventional commit format |
