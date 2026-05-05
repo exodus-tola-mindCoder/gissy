@@ -127,6 +127,7 @@ The system automatically detects which AI provider to use based on available API
 ### Multi-AI Provider Support Guide
 
 #### Overview
+
 Gissy  supports multiple AI providers for generating intelligent commit messages, including OpenAI, Gemini, and Addis AI.
 
 #### Supported Providers
