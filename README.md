@@ -151,12 +151,14 @@ ADDIS_AI_API_KEY=your-addis-ai-key-here
 ```
 
 #### Features
+
 - **Multi-language support**: Addis AI supports Afaan Oromo and Amharic
 - **Automatic fallback**: Falls back to simple commit messages if no AI keys are available
 - **Zero-config ready**: Works without any API keys
 - **Cross-platform**: Works on Windows, macOS, and Linux.
 
 #### Migration Guide
+
 ##### From Single OpenAI to Multi-Provider
 1. Add new environment variables as needed
 2. No code changes required
