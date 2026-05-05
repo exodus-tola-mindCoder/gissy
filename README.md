@@ -1,6 +1,6 @@
 # Gissy
 
-If you find this project useful, please consider giving it a star ⭐!, Your support helps the project grow and reach more developers.
+If you find this project useful, please consider giving it a star ⭐! Your support helps the project grow and reach more developers.
 
 [![GitHub stars](https://img.shields.io/github/stars/exodus-tola-mindCoder/gissy?style=social)](https://github.com/exodus-tola-mindCoder/gissy)
 
