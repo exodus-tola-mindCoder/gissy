@@ -92,6 +92,7 @@ Create a `.gissyrc.json` file in your project root:
 ```
 
 ### AI Provider Configuration
+
 Gissy supports multiple AI providers for generating intelligent commit messages. Configure your preferred provider using environment variables:
 
 #### Environment Variables
