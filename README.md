@@ -165,6 +165,7 @@ ADDIS_AI_API_KEY=your-addis-ai-key-here
 3. System automatically detects available providers
 
 ##### Backward Compatibility
+
 - Existing OPENAI_API_KEY continues to work
 - No breaking changes to existing configurations
 - Fallback to simple commit messages when no keys are available
